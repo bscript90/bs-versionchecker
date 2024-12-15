@@ -1,6 +1,8 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "changelog": [
-        "Latest"
+        "RSG-Lawman support added.",
+        "Lockpick requirement added. You can turn it on and off via Config.",
+        "Known bugs fixed.",
     ]
 }
