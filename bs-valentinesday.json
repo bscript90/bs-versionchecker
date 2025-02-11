@@ -1,6 +1,6 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "changelog": [
-        "Latest"
+        "Added Config.SelectPlayer option to write a letter without selecting a player."
     ]
 }
