@@ -1,7 +1,7 @@
 {
-    "version": "1.1",
+    "version": "1.2",
     "changelog": [
-        "Added animation for saltychat",
+        "The dead are prevented from using radios.",
         "Fixed known bugs"
     ]
 }
