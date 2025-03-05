@@ -1,7 +1,7 @@
 {
-    "version": "1.2",
+    "version": "1.3",
     "changelog": [
-        "The dead are prevented from using radios.",
+        "Fixed an issue with the radio showing up when you die or quit the game.",
         "Fixed known bugs"
     ]
 }
