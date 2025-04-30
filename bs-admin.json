@@ -1,7 +1,7 @@
 {
-    "version": "1.1",
+    "version": "1.2",
     "changelog": [
-        "Authorization setting has been added. You can now give personalized authorizations.",
+        "Discord log options added. All transactions will send log to discord.",
         "Known bugs fixed."
     ]
 }
