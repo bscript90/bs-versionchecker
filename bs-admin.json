@@ -1,8 +1,8 @@
 {
-    "version": "1.3",
+    "version": "1.4",
     "changelog": [
-        "Added displaying player blips on the map (Toggle Player Blip).",
-        "Fixed a bug in teleporting.",
+        "Added job setting via admin menu.",
+        "Added small fix for the bug found in Noclip (Experimental).",
         "Known bugs fixed."
     ]
 }
