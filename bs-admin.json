@@ -1,8 +1,10 @@
 {
-    "version": "1.4",
+    "version": "1.6",
     "changelog": [
-        "Added job setting via admin menu.",
-        "Added small fix for the bug found in Noclip (Experimental).",
+        "The bug in Setjob has been fixed.",
+        "Added shortcut for Noclip.",
+        "Fixed bug in Report system.",
+        "Added config setting so you can change player blips",
         "Known bugs fixed."
     ]
 }
