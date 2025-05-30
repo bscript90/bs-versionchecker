@@ -1,10 +1,8 @@
 {
-    "version": "1.6",
+    "version": "1.7",
     "changelog": [
-        "The bug in Setjob has been fixed.",
-        "Added shortcut for Noclip.",
-        "Fixed bug in Report system.",
-        "Added config setting so you can change player blips",
+        "You will be able to see the player's profession via the menu.",
+        "You will be able to give pads to the player through the menu.",
         "Known bugs fixed."
     ]
 }
