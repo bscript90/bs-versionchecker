@@ -1,6 +1,6 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "changelog": [
-        "Latest"
+        "The item label option has been added to the config."
     ]
 }
