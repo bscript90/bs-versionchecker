@@ -1,7 +1,9 @@
 {
-    "version": "1.4",
+    "version": "1.5",
     "changelog": [
-        "Item control added. If the item is not in inventory, you will be kicked over the radio.",
+        "Compatible PMA-Voice version added.",
+        "The speech issue while hogtied has been resolved.",
+        "General optimization has been performed.",
         "Fixed known bugs"
     ]
 }
